@@ -23,8 +23,3 @@
     - [1 point] Call the function with correct arguments
     
 - [2 points] Extra credit
-
-#### Tips for completing the activity
-
-- Check the slides for Base R. 
-- Use the help files! 
